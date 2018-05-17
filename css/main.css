@@ -1,0 +1,19 @@
+/* #padd{
+    padding-right: 100px;
+} */
+
+#first-button{
+    margin-right: 150px;
+    margin-left:10px;
+}
+
+#back{
+    background-image: url('../images.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#widh{
+    width:400px;
+    text-align: justify;
+}
