@@ -7,13 +7,42 @@
     margin-left:10px;
 }
 
+.red{
+    color: rgb(131, 103, 50);
+}
+
 #back{
-    background-image: url('../images.jpg');
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-color:skyblue;
+    padding-bottom: 40px;
 }
 
 #widh{
-    width:400px;
+    width:600px;
     text-align: justify;
+    color: rgb(68, 59, 59);
+}
+
+#secon{
+    background-color: skyblue;
+    padding-top:40px;
+    padding-bottom: 35px;
+}
+
+.re{
+    color: rgb(131, 103, 50);
+}
+
+.blue{
+    color: rgb(68, 59, 59);
+}
+
+.firs{
+    font-size: 20px;
+    color: #aac7d9;
+    margin-bottom: 10px;
+}
+
+.sec{
+    color:rgb(14, 172, 235);
+
 }
