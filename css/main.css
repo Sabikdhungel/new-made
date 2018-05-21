@@ -2,9 +2,41 @@
     padding-right: 100px;
 } */
 
+header{
+    background-image: url(../hello.jpg);
+    background-size: 100% 100%;
+}
+
+#ghost{
+    height: 93vh;
+}
+
 #first-button{
     margin-right: 150px;
     margin-left:10px;
+}
+
+#neew{
+    color:black;
+}
+
+.olld{
+    margin-top: 260px;
+}
+
+#cena{
+    margin-top:100px;
+    border-radius: 30px;
+    padding:12px 42px;
+    border:none;
+    background-color: rgb(46, 133, 247);
+    color: white;
+    transition: 0.7s;
+    margin-top:20vh; 
+}
+
+#cena:hover{
+    background-color: rgb(22, 95, 197) ;
 }
 
 .red{
