@@ -44,7 +44,14 @@ header{
 }
 
 #back{
-    background-color:skyblue;
+    /* background-color:skyblue; */
+    padding-bottom: 60px;
+    padding: top 35px;
+}
+
+#educ{
+    background-color: skyblue;
+    padding-top: 40px;
     padding-bottom: 40px;
 }
 
@@ -57,7 +64,7 @@ header{
 #secon{
     background-color: skyblue;
     padding-top:40px;
-    padding-bottom: 35px;
+    padding-bottom: 30px;
 }
 
 .re{
@@ -70,11 +77,43 @@ header{
 
 .firs{
     font-size: 20px;
-    color: #aac7d9;
+    color: #4e5b63;
     margin-bottom: 10px;
 }
 
 .sec{
-    color:rgb(14, 172, 235);
+    color:rgb(29, 15, 88)
 
+}
+
+#lastt{
+    border-top:1px solid rgb(241, 208, 208);
+    margin-top: 100px;
+    border-bottom:1px solid rgb(241, 208, 208);
+    margin-bottom: 5px;
+    padding-bottom:70px;
+}
+
+#sec-last{
+    margin-top: 80px;
+}
+
+#tex{
+    color: #775252;
+    /* margin-top:70px; */
+    /* padding-left:10px; */
+    font-size: 26px;
+}
+/* 
+.ico{
+    padding-left: 250px;
+} */
+
+/* .ppp{
+    padding-left:570px;
+} */
+
+#nnn{
+    color: #aaa;
+    font-size :25px;
 }
